@@ -621,3 +621,28 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+.card-body {
+	height: 450px;
+	width: 400px;
+	margin-bottom: 30px;
+	background-color: #faa6a0;
+	box-shadow: 10px 10px 5px rgba(0,0,0, .4);
+}
+
+
+.card-text {
+	height: 150px;
+	width: inherit;
+	margin-top: 5px;
+	background-color: aliceblue;
+	position: absolute;
+}
+
+.pic {
+	height: 300px;
+	width: 300px;
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+}
