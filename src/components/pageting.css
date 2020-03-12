@@ -1,0 +1,11 @@
+.card-outline {
+	height: auto;
+	width: auto;
+	border: 1px solid black;
+}
+
+.gat {
+	position: relative;
+	display: flow-root;
+	grid-row: span;
+}
